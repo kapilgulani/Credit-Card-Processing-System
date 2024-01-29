@@ -1,0 +1,5 @@
+cardNumber,cardType
+347856341908126,AmericanExpress
+5867894523129089,MasterCard
+5367894523129089,MasterCard
+,Invalid: empty/null card number
